@@ -1,0 +1,194 @@
+﻿2020-03-03T14:47:46.4884370-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-03-03T14:47:46.4884370-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.48 in Framework clr40 in x86 mode execution started
+2020-03-03T14:47:46.4884370-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\packages\SpecRun.Runner.3.1.48\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-03-03T14:47:46.5134123-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\test.create\bin\Debug\test.create.dll
+2020-03-03T14:47:46.5134123-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\TestResults" (default)
+2020-03-03T14:47:46.5134123-03:00;VSTestExecutionThread;Info;Profile: 
+2020-03-03T14:47:46.5314019-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\TestResults\Unnamed project__2020-03-03T144746.log
+2020-03-03T14:47:46.5403967-03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-03-03T14:47:46.5453939-03:00;Thread#17;Info;Checking license
+2020-03-03T14:47:46.5563971-03:00;Thread#17;Info;Evaluation mode: test execution starts in 9 seconds... (this delay is removed in the registered version)
+2020-03-03T14:47:55.5576525-03:00;Thread#17;Info;Evaluation delay finished.
+2020-03-03T14:47:55.5616335-03:00;Thread#17;Info;License check completed
+2020-03-03T14:47:55.5626330-03:00;Thread#17;Info;starting test run
+2020-03-03T14:47:55.5996094-03:00;Thread#17;Info;Discovering target: Default
+2020-03-03T14:47:55.6006101-03:00;Thread#17;Info;Discovering tests from assembly: C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\test.create\bin\Debug\test.create.dll
+2020-03-03T14:47:55.8864440-03:00;Thread#17;Info;Discovered tests from assembly: C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\test.create\bin\Debug\test.create.dll
+2020-03-03T14:47:55.8874514-03:00:Test Suite Dump
+2020-03-03T14:47:55.8894586-03:00:#0: Unnamed project/ - 
+2020-03-03T14:47:55.8894586-03:00:#1: Default - 
+2020-03-03T14:47:55.8894586-03:00:#2: test.create - 
+2020-03-03T14:47:55.8894586-03:00:#3: ItemBll - 
+2020-03-03T14:47:55.8894586-03:00:#9: SpecFlowFeature1 - 
+2020-03-03T14:47:55.9134451-03:00:#4: Add two numbers, xablau - TestAssembly:test.create/Feature:ItemBll/Scenario:Add+two+numbers%2c+xablau
+2020-03-03T14:47:55.9134451-03:00:#5: Add two numbers, Texas - TestAssembly:test.create/Feature:ItemBll/Scenario:Add+two+numbers%2c+Texas
+2020-03-03T14:47:55.9134451-03:00:#6: Add two numbers, ☺asd§☻ - TestAssembly:test.create/Feature:ItemBll/Scenario:Add+two+numbers%2c+%e2%98%baasd%c2%a7%e2%98%bb
+2020-03-03T14:47:55.9134451-03:00:#7: Add two numbers, sd - TestAssembly:test.create/Feature:ItemBll/Scenario:Add+two+numbers%2c+sd
+2020-03-03T14:47:55.9134451-03:00:#8: Add two numbers, d - TestAssembly:test.create/Feature:ItemBll/Scenario:Add+two+numbers%2c+d
+2020-03-03T14:47:55.9134451-03:00:#10: Add two numbers, 1 - TestAssembly:test.create/Feature:SpecFlowFeature1/Scenario:Add+two+numbers%2c+1
+2020-03-03T14:47:55.9134451-03:00:#11: Add two numbers, 10 - TestAssembly:test.create/Feature:SpecFlowFeature1/Scenario:Add+two+numbers%2c+10
+2020-03-03T14:47:55.9134451-03:00:End: Test Suite Dump
+2020-03-03T14:47:55.9334172-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-03T14:47:55.9344160-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-03-03T14:47:55.9344160-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-03-03T14:47:55.9384137-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-03-03T14:47:55.9384137-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-03-03T14:47:55.9384137-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-03-03T14:47:55.9384137-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-03-03T14:47:55.9394291-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-03-03T14:47:55.9404286-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-03-03T14:47:55.9424271-03:00:Thread #0: creating new test thread executor for test.create, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-03-03T14:47:55.9444112-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-03-03T14:47:55.9464103-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-03-03T14:47:55.9484079-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2020-03-03T14:47:56.1133141-03:00:Thread#0:T:-> Loading plugin C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\test.create\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-03-03T14:47:56.1183103-03:00:Thread#0:T:-> Using default config
+2020-03-03T14:47:56.5360696-03:00:Thread#0: Test #4/0 is started on thread #0
+2020-03-03T14:47:56.5630627-03:00:Thread#0:B:Given Que o nome do item seja "xablau"
+2020-03-03T14:47:56.8958721-03:00:Thread#0:T:done: ItemBllSteps.GivenQueONomeDoItemSeja("xablau") (0,2s)
+2020-03-03T14:47:56.8968616-03:00:Thread#0:B:And A quantidade  seja 5
+2020-03-03T14:47:56.8998756-03:00:Thread#0:T:done: ItemBllSteps.GivenAQuantidadeSeja(5) (0,0s)
+2020-03-03T14:47:56.9008593-03:00:Thread#0:B:When Eu valido o item
+2020-03-03T14:47:56.9018587-03:00:Thread#0:T:done: ItemBllSteps.WhenEuValidoOItem() (0,0s)
+2020-03-03T14:47:56.9028671-03:00:Thread#0:B:Then o resultado deve não deve dar erro
+2020-03-03T14:47:56.9028671-03:00:Thread#0:T:done: ItemBllSteps.ThenOResultadoDeveNaoDeveDarErro() (0,0s)
+2020-03-03T14:47:56.9148509-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-03T14:47:56.9158506-03:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2020-03-03T14:47:56.9158506-03:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2020-03-03T14:47:56.9158506-03:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2020-03-03T14:47:56.9158506-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2020-03-03T14:47:56.9158506-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2020-03-03T14:47:56.9158506-03:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2020-03-03T14:47:56.9158506-03:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2020-03-03T14:47:56.9158506-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-03-03T14:47:56.9268472-03:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 0,3897784 seconds
+2020-03-03T14:47:56.9288435-03:00:Thread#0: Test #5/0 is started on thread #0
+2020-03-03T14:47:56.9288435-03:00:Thread#0:B:Given Que o nome do item seja "Texas"
+2020-03-03T14:47:56.9328408-03:00:Thread#0:T:done: ItemBllSteps.GivenQueONomeDoItemSeja("Texas") (0,0s)
+2020-03-03T14:47:56.9338403-03:00:Thread#0:B:And A quantidade  seja 25000
+2020-03-03T14:47:56.9338403-03:00:Thread#0:T:done: ItemBllSteps.GivenAQuantidadeSeja(25000) (0,0s)
+2020-03-03T14:47:56.9338403-03:00:Thread#0:B:When Eu valido o item
+2020-03-03T14:47:56.9338403-03:00:Thread#0:T:done: ItemBllSteps.WhenEuValidoOItem() (0,0s)
+2020-03-03T14:47:56.9338403-03:00:Thread#0:B:Then o resultado deve não deve dar erro
+2020-03-03T14:47:56.9338403-03:00:Thread#0:T:done: ItemBllSteps.ThenOResultadoDeveNaoDeveDarErro() (0,0s)
+2020-03-03T14:47:56.9338403-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-03T14:47:56.9338403-03:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2020-03-03T14:47:56.9338403-03:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2020-03-03T14:47:56.9338403-03:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2020-03-03T14:47:56.9338403-03:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2020-03-03T14:47:56.9338403-03:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2020-03-03T14:47:56.9338403-03:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2020-03-03T14:47:56.9338403-03:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2020-03-03T14:47:56.9338403-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-03-03T14:47:56.9348400-03:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 0,0059965 seconds
+2020-03-03T14:47:56.9358394-03:00:Thread#0: Test #6/0 is started on thread #0
+2020-03-03T14:47:56.9358394-03:00:Thread#0:B:Given Que o nome do item seja "☺asd§☻"
+2020-03-03T14:47:56.9358394-03:00:Thread#0:T:done: ItemBllSteps.GivenQueONomeDoItemSeja("☺asd§☻") (0,0s)
+2020-03-03T14:47:56.9368388-03:00:Thread#0:B:And A quantidade  seja 65
+2020-03-03T14:47:56.9368388-03:00:Thread#0:T:done: ItemBllSteps.GivenAQuantidadeSeja(65) (0,0s)
+2020-03-03T14:47:56.9368388-03:00:Thread#0:B:When Eu valido o item
+2020-03-03T14:47:56.9368388-03:00:Thread#0:T:done: ItemBllSteps.WhenEuValidoOItem() (0,0s)
+2020-03-03T14:47:56.9368388-03:00:Thread#0:B:Then o resultado deve não deve dar erro
+2020-03-03T14:47:56.9368388-03:00:Thread#0:T:done: ItemBllSteps.ThenOResultadoDeveNaoDeveDarErro() (0,0s)
+2020-03-03T14:47:56.9368388-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-03T14:47:56.9368388-03:00:Thread#:Scheduler: testitem #7 from normal test queue 
+2020-03-03T14:47:56.9368388-03:00:Thread#0:Scheduler: considering testitem #7 for thread 0
+2020-03-03T14:47:56.9368388-03:00:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2020-03-03T14:47:56.9368388-03:00:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2020-03-03T14:47:56.9368388-03:00:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2020-03-03T14:47:56.9368388-03:00:Thread#0:Scheduler: using testitem #7 for thread 0
+2020-03-03T14:47:56.9368388-03:00:Thread#0:Scheduler: Test #7 is scheduled for thread
+2020-03-03T14:47:56.9368388-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-03-03T14:47:56.9378386-03:00:Thread#0: Test #6/0 is finished on thread #0 as Succeeded within 0,0019992 seconds
+2020-03-03T14:47:56.9378386-03:00:Thread#0: Test #7/0 is started on thread #0
+2020-03-03T14:47:56.9378386-03:00:Thread#0:B:Given Que o nome do item seja "sd"
+2020-03-03T14:47:56.9388380-03:00:Thread#0:T:done: ItemBllSteps.GivenQueONomeDoItemSeja("sd") (0,0s)
+2020-03-03T14:47:56.9388380-03:00:Thread#0:B:And A quantidade  seja 5
+2020-03-03T14:47:56.9388380-03:00:Thread#0:T:done: ItemBllSteps.GivenAQuantidadeSeja(5) (0,0s)
+2020-03-03T14:47:56.9388380-03:00:Thread#0:B:When Eu valido o item
+2020-03-03T14:47:56.9388380-03:00:Thread#0:T:done: ItemBllSteps.WhenEuValidoOItem() (0,0s)
+2020-03-03T14:47:56.9388380-03:00:Thread#0:B:Then o resultado deve não deve dar erro
+2020-03-03T14:47:56.9398365-03:00:Thread#0:T:done: ItemBllSteps.ThenOResultadoDeveNaoDeveDarErro() (0,0s)
+2020-03-03T14:47:56.9398365-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-03T14:47:56.9398365-03:00:Thread#:Scheduler: testitem #8 from normal test queue 
+2020-03-03T14:47:56.9398365-03:00:Thread#0:Scheduler: considering testitem #8 for thread 0
+2020-03-03T14:47:56.9398365-03:00:Thread#0:TestItem#8:testItemMatchesCurrentTestThread:UnSpecific
+2020-03-03T14:47:56.9398365-03:00:Thread#0:TestItem#8:runsOnOneOtherThreadSpecific:False
+2020-03-03T14:47:56.9398365-03:00:Thread#0:TestItem#8:runsOnOneOtherThreadUnspecific:False
+2020-03-03T14:47:56.9398365-03:00:Thread#0:Scheduler: using testitem #8 for thread 0
+2020-03-03T14:47:56.9398365-03:00:Thread#0:Scheduler: Test #8 is scheduled for thread
+2020-03-03T14:47:56.9398365-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-03-03T14:47:56.9398365-03:00:Thread#0: Test #7/0 is finished on thread #0 as Succeeded within 0,0019979 seconds
+2020-03-03T14:47:56.9398365-03:00:Thread#0: Test #8/0 is started on thread #0
+2020-03-03T14:47:56.9408359-03:00:Thread#0:B:Given Que o nome do item seja "d"
+2020-03-03T14:47:56.9408359-03:00:Thread#0:T:done: ItemBllSteps.GivenQueONomeDoItemSeja("d") (0,0s)
+2020-03-03T14:47:56.9408359-03:00:Thread#0:B:And A quantidade  seja 5
+2020-03-03T14:47:56.9408359-03:00:Thread#0:T:done: ItemBllSteps.GivenAQuantidadeSeja(5) (0,0s)
+2020-03-03T14:47:56.9408359-03:00:Thread#0:B:When Eu valido o item
+2020-03-03T14:47:56.9408359-03:00:Thread#0:T:done: ItemBllSteps.WhenEuValidoOItem() (0,0s)
+2020-03-03T14:47:56.9418360-03:00:Thread#0:B:Then o resultado deve não deve dar erro
+2020-03-03T14:47:56.9418360-03:00:Thread#0:T:done: ItemBllSteps.ThenOResultadoDeveNaoDeveDarErro() (0,0s)
+2020-03-03T14:47:56.9418360-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-03T14:47:56.9418360-03:00:Thread#:Scheduler: testitem #10 from normal test queue 
+2020-03-03T14:47:56.9418360-03:00:Thread#0:Scheduler: considering testitem #10 for thread 0
+2020-03-03T14:47:56.9418360-03:00:Thread#0:TestItem#10:testItemMatchesCurrentTestThread:UnSpecific
+2020-03-03T14:47:56.9418360-03:00:Thread#0:TestItem#10:runsOnOneOtherThreadSpecific:False
+2020-03-03T14:47:56.9418360-03:00:Thread#0:TestItem#10:runsOnOneOtherThreadUnspecific:False
+2020-03-03T14:47:56.9418360-03:00:Thread#0:Scheduler: using testitem #10 for thread 0
+2020-03-03T14:47:56.9418360-03:00:Thread#0:Scheduler: Test #10 is scheduled for thread
+2020-03-03T14:47:56.9418360-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-03-03T14:47:56.9428351-03:00:Thread#0: Test #8/0 is finished on thread #0 as Succeeded within 0,0029986 seconds
+2020-03-03T14:47:56.9428351-03:00:Thread#0: Test #10/0 is started on thread #0
+2020-03-03T14:47:56.9508314-03:00:Thread#0:B:Given I have entered 1 into the calculator
+2020-03-03T14:47:56.9518299-03:00:Thread#0:T:done: SpecFlowFeature1Steps.GivenIHaveEnteredIntoTheCalculator(1) (0,0s)
+2020-03-03T14:47:56.9518299-03:00:Thread#0:B:And I have entered other 1 into the calculator
+2020-03-03T14:47:56.9528290-03:00:Thread#0:T:done: SpecFlowFeature1Steps.GivenIHaveEnteredOtherIntoTheCalculator(1) (0,0s)
+2020-03-03T14:47:56.9528290-03:00:Thread#0:B:When I press add
+2020-03-03T14:47:56.9538287-03:00:Thread#0:T:done: SpecFlowFeature1Steps.WhenIPressAdd() (0,0s)
+2020-03-03T14:47:56.9538287-03:00:Thread#0:B:Then the result should be 2 on the screen
+2020-03-03T14:47:56.9558279-03:00:Thread#0:T:done: SpecFlowFeature1Steps.ThenTheResultShouldBeOnTheScreen(2) (0,0s)
+2020-03-03T14:47:56.9558279-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-03T14:47:56.9558279-03:00:Thread#:Scheduler: testitem #11 from normal test queue 
+2020-03-03T14:47:56.9558279-03:00:Thread#0:Scheduler: considering testitem #11 for thread 0
+2020-03-03T14:47:56.9558279-03:00:Thread#0:TestItem#11:testItemMatchesCurrentTestThread:UnSpecific
+2020-03-03T14:47:56.9558279-03:00:Thread#0:TestItem#11:runsOnOneOtherThreadSpecific:False
+2020-03-03T14:47:56.9558279-03:00:Thread#0:TestItem#11:runsOnOneOtherThreadUnspecific:False
+2020-03-03T14:47:56.9558279-03:00:Thread#0:Scheduler: using testitem #11 for thread 0
+2020-03-03T14:47:56.9558279-03:00:Thread#0:Scheduler: Test #11 is scheduled for thread
+2020-03-03T14:47:56.9558279-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-03-03T14:47:56.9568270-03:00:Thread#0: Test #10/0 is finished on thread #0 as Succeeded within 0,0139919 seconds
+2020-03-03T14:47:56.9568270-03:00:Thread#0: Test #11/0 is started on thread #0
+2020-03-03T14:47:56.9568270-03:00:Thread#0:B:Given I have entered 10 into the calculator
+2020-03-03T14:47:56.9578261-03:00:Thread#0:T:done: SpecFlowFeature1Steps.GivenIHaveEnteredIntoTheCalculator(10) (0,0s)
+2020-03-03T14:47:56.9578261-03:00:Thread#0:B:And I have entered other 10 into the calculator
+2020-03-03T14:47:56.9578261-03:00:Thread#0:T:done: SpecFlowFeature1Steps.GivenIHaveEnteredOtherIntoTheCalculator(10) (0,0s)
+2020-03-03T14:47:56.9578261-03:00:Thread#0:B:When I press add
+2020-03-03T14:47:56.9578261-03:00:Thread#0:T:done: SpecFlowFeature1Steps.WhenIPressAdd() (0,0s)
+2020-03-03T14:47:56.9578261-03:00:Thread#0:B:Then the result should be 20 on the screen
+2020-03-03T14:47:56.9588258-03:00:Thread#0:T:done: SpecFlowFeature1Steps.ThenTheResultShouldBeOnTheScreen(20) (0,0s)
+2020-03-03T14:47:56.9588258-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-03T14:47:56.9588258-03:00:Thread#:Scheduler: at the end of normal test queue
+2020-03-03T14:47:56.9588258-03:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-03-03T14:47:56.9588258-03:00:Thread#0:Scheduler: No more tests for thread
+2020-03-03T14:47:56.9698192-03:00:Thread#0: Test #11/0 is finished on thread #0 as Succeeded within 0,0129922 seconds
+2020-03-03T14:47:57.0067979-03:00:Trying to cancel thread
+2020-03-03T14:47:57.0067979-03:00:Thread cancelled
+2020-03-03T14:47:57.0117950-03:00:Thread#-1:Scheduler: get next test for thread -1
+2020-03-03T14:47:57.0117950-03:00:Thread#:Scheduler: at the end of normal test queue
+2020-03-03T14:47:57.0117950-03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-03-03T14:47:57.0137938-03:00;Thread#17;Info;test run finished
+2020-03-03T14:47:57.0137938-03:00;Thread#17;Info;publishing test results
+2020-03-03T14:47:57.0187919-03:00;Thread#17;Info;test results published
+2020-03-03T14:47:57.0187919-03:00;Thread#17;Info;generating reports
+2020-03-03T14:47:57.1257299-03:00;Thread#17;Info;Starting external report generation process
+2020-03-03T14:47:58.5459106-03:00;Thread#17;Info;Successfully generated reports.
+2020-03-03T14:47:58.5469103-03:00;Thread#17;Info;Successfully generated reports
+2020-03-03T14:47:58.5529162-03:00:Total: 7
+2020-03-03T14:47:58.5549150-03:00:Succeeded: 7
+2020-03-03T14:47:58.5549150-03:00:Ignored: 0
+2020-03-03T14:47:58.5559144-03:00:Pending: 0
+2020-03-03T14:47:58.5559144-03:00:Skipped: 0
+2020-03-03T14:47:58.5559144-03:00:Failed: 0
+2020-03-03T14:47:58.5649092-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-03-03T14:47:58.5649092-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\TestResults\Unnamed project__2020-03-03T144746.html'
+========== End of log file ==========

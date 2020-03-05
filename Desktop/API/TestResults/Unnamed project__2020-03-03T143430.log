@@ -1,0 +1,93 @@
+﻿2020-03-03T14:34:30.2423263-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-03-03T14:34:30.2433258-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.48 in Framework clr40 in x86 mode execution started
+2020-03-03T14:34:30.2433258-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\packages\SpecRun.Runner.3.1.48\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-03-03T14:34:30.2833027-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\test.create\bin\Debug\test.create.dll
+2020-03-03T14:34:30.2843018-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\TestResults" (default)
+2020-03-03T14:34:30.2843018-03:00;VSTestExecutionThread;Info;Profile: 
+2020-03-03T14:34:30.3072908-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\TestResults\Unnamed project__2020-03-03T143430.log
+2020-03-03T14:34:30.3192816-03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-03-03T14:34:30.3242797-03:00;Thread#14;Info;Checking license
+2020-03-03T14:34:30.3382707-03:00;Thread#14;Info;Evaluation mode: test execution starts in 8 seconds... (this delay is removed in the registered version)
+2020-03-03T14:34:38.3396563-03:00;Thread#14;Info;Evaluation delay finished.
+2020-03-03T14:34:38.3446537-03:00;Thread#14;Info;License check completed
+2020-03-03T14:34:38.3446537-03:00;Thread#14;Info;starting test run
+2020-03-03T14:34:38.3516497-03:00;Thread#14;Info;Discovering target: Default
+2020-03-03T14:34:38.3516497-03:00;Thread#14;Info;Discovering tests from assembly: C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\test.create\bin\Debug\test.create.dll
+2020-03-03T14:34:38.6494783-03:00;Thread#14;Info;Discovered tests from assembly: C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\test.create\bin\Debug\test.create.dll
+2020-03-03T14:34:38.6504777-03:00:Test Suite Dump
+2020-03-03T14:34:38.6514768-03:00:#0: Unnamed project/ - 
+2020-03-03T14:34:38.6524756-03:00:#1: Default - 
+2020-03-03T14:34:38.6524756-03:00:#2: test.create - 
+2020-03-03T14:34:38.6524756-03:00:#3: SpecFlowFeature1 - 
+2020-03-03T14:34:38.6764624-03:00:#4: Add two numbers, 1 - TestAssembly:test.create/Feature:SpecFlowFeature1/Scenario:Add+two+numbers%2c+1
+2020-03-03T14:34:38.6764624-03:00:#5: Add two numbers, 10 - TestAssembly:test.create/Feature:SpecFlowFeature1/Scenario:Add+two+numbers%2c+10
+2020-03-03T14:34:38.6764624-03:00:End: Test Suite Dump
+2020-03-03T14:34:38.6964502-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-03T14:34:38.6984490-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-03-03T14:34:38.6984490-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-03-03T14:34:38.7024467-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-03-03T14:34:38.7024467-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-03-03T14:34:38.7024467-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-03-03T14:34:38.7024467-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-03-03T14:34:38.7034462-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-03-03T14:34:38.7034462-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-03-03T14:34:38.7064444-03:00:Thread #0: creating new test thread executor for test.create, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-03-03T14:34:38.7084436-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-03-03T14:34:38.7114438-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-03-03T14:34:38.7124419-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2020-03-03T14:34:38.8893393-03:00:Thread#0:T:-> Loading plugin C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\test.create\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-03-03T14:34:38.8953358-03:00:Thread#0:T:-> Using default config
+2020-03-03T14:34:39.3340831-03:00:Thread#0: Test #4/0 is started on thread #0
+2020-03-03T14:34:39.3600675-03:00:Thread#0:B:Given I have entered 1 into the calculator
+2020-03-03T14:34:39.4470177-03:00:Thread#0:T:done: SpecFlowFeature1Steps.GivenIHaveEnteredIntoTheCalculator(1) (0,0s)
+2020-03-03T14:34:39.4480171-03:00:Thread#0:B:And I have entered other 1 into the calculator
+2020-03-03T14:34:39.4540140-03:00:Thread#0:T:done: SpecFlowFeature1Steps.GivenIHaveEnteredOtherIntoTheCalculator(1) (0,0s)
+2020-03-03T14:34:39.4550134-03:00:Thread#0:B:When I press add
+2020-03-03T14:34:39.4550134-03:00:Thread#0:T:done: SpecFlowFeature1Steps.WhenIPressAdd() (0,0s)
+2020-03-03T14:34:39.4560128-03:00:Thread#0:B:Then the result should be 2 on the screen
+2020-03-03T14:34:39.4580116-03:00:Thread#0:T:done: SpecFlowFeature1Steps.ThenTheResultShouldBeOnTheScreen(2) (0,0s)
+2020-03-03T14:34:39.4700041-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-03T14:34:39.4700041-03:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2020-03-03T14:34:39.4700041-03:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2020-03-03T14:34:39.4700041-03:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2020-03-03T14:34:39.4700041-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2020-03-03T14:34:39.4700041-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2020-03-03T14:34:39.4700041-03:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2020-03-03T14:34:39.4700041-03:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2020-03-03T14:34:39.4700041-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-03-03T14:34:39.4809981-03:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 0,1459156 seconds
+2020-03-03T14:34:39.4819975-03:00:Thread#0: Test #5/0 is started on thread #0
+2020-03-03T14:34:39.4829966-03:00:Thread#0:B:Given I have entered 10 into the calculator
+2020-03-03T14:34:39.4829966-03:00:Thread#0:T:done: SpecFlowFeature1Steps.GivenIHaveEnteredIntoTheCalculator(10) (0,0s)
+2020-03-03T14:34:39.4839963-03:00:Thread#0:B:And I have entered other 10 into the calculator
+2020-03-03T14:34:39.4839963-03:00:Thread#0:T:done: SpecFlowFeature1Steps.GivenIHaveEnteredOtherIntoTheCalculator(10) (0,0s)
+2020-03-03T14:34:39.4839963-03:00:Thread#0:B:When I press add
+2020-03-03T14:34:39.4839963-03:00:Thread#0:T:done: SpecFlowFeature1Steps.WhenIPressAdd() (0,0s)
+2020-03-03T14:34:39.4839963-03:00:Thread#0:B:Then the result should be 20 on the screen
+2020-03-03T14:34:39.4839963-03:00:Thread#0:T:done: SpecFlowFeature1Steps.ThenTheResultShouldBeOnTheScreen(20) (0,0s)
+2020-03-03T14:34:39.4849958-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-03T14:34:39.4849958-03:00:Thread#:Scheduler: at the end of normal test queue
+2020-03-03T14:34:39.4849958-03:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-03-03T14:34:39.4849958-03:00:Thread#0:Scheduler: No more tests for thread
+2020-03-03T14:34:39.4979883-03:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 0,0149917 seconds
+2020-03-03T14:34:39.5179771-03:00:Trying to cancel thread
+2020-03-03T14:34:39.5179771-03:00:Thread cancelled
+2020-03-03T14:34:39.5229742-03:00:Thread#-1:Scheduler: get next test for thread -1
+2020-03-03T14:34:39.5229742-03:00:Thread#:Scheduler: at the end of normal test queue
+2020-03-03T14:34:39.5229742-03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-03-03T14:34:39.5249730-03:00;Thread#14;Info;test run finished
+2020-03-03T14:34:39.5249730-03:00;Thread#14;Info;publishing test results
+2020-03-03T14:34:39.5309699-03:00;Thread#14;Info;test results published
+2020-03-03T14:34:39.5319690-03:00;Thread#14;Info;generating reports
+2020-03-03T14:34:39.6349100-03:00;Thread#14;Info;Starting external report generation process
+2020-03-03T14:34:41.0410984-03:00;Thread#14;Info;Successfully generated reports.
+2020-03-03T14:34:41.0440973-03:00;Thread#14;Info;Successfully generated reports
+2020-03-03T14:34:41.0510929-03:00:Total: 2
+2020-03-03T14:34:41.0520927-03:00:Succeeded: 2
+2020-03-03T14:34:41.0530927-03:00:Ignored: 0
+2020-03-03T14:34:41.0530927-03:00:Pending: 0
+2020-03-03T14:34:41.0530927-03:00:Skipped: 0
+2020-03-03T14:34:41.0540909-03:00:Failed: 0
+2020-03-03T14:34:41.0640854-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-03-03T14:34:41.0640854-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\TestResults\Unnamed project__2020-03-03T143430.html'
+========== End of log file ==========

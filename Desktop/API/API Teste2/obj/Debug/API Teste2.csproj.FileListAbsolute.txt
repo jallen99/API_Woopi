@@ -1,0 +1,243 @@
+C:\Users\josem\Desktop\API Teste2\API Teste2\obj\Debug\API Teste2.csprojAssemblyReference.cache
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\mongocrypt.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\API Teste2.dll.config
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\API Teste2.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\API Teste2.pdb
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\csc.exe
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\csc.exe.config
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\csc.rsp
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\csi.exe
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\csi.rsp
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\System.AppContext.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\vbc.exe
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\vbc.exe.config
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\vbc.rsp
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\VBCSCompiler.exe
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\Crc32C.NET.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\Database.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\DnsClient.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\MongoDB.Bson.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\MongoDB.Driver.Core.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\MongoDB.Driver.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\MongoDB.Driver.Legacy.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\MongoDB.Libmongocrypt.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\Newtonsoft.Json.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\PCLStorage.Abstractions.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\PCLStorage.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\SharpCompress.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\Snappy.NET.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\System.Buffers.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\System.Web.Helpers.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\System.Web.Mvc.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\System.Web.Razor.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\System.Web.Webpages.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\System.Web.Webpages.Razor.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\Crc32C.NET.xml
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\DnsClient.xml
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\MongoDB.Bson.xml
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\MongoDB.Driver.xml
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\MongoDB.Driver.Core.xml
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\MongoDB.Driver.Legacy.xml
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\Newtonsoft.Json.xml
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\PCLStorage.xml
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\PCLStorage.Abstractions.xml
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\Snappy.NET.xml
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\System.Buffers.xml
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\System.Web.Razor.xml
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\System.Web.Webpages.xml
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\System.Web.Webpages.Razor.xml
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\System.Web.Helpers.xml
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\System.Web.Mvc.xml
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\obj\Debug\API Teste2.csproj.CopyComplete
+C:\Users\josem\Desktop\API Teste2\API Teste2\obj\Debug\API Teste2.dll
+C:\Users\josem\Desktop\API Teste2\API Teste2\obj\Debug\API Teste2.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\mongocrypt.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\API Teste2.dll.config
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\API Teste2.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\API Teste2.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\csc.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\csc.exe.config
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\csc.rsp
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\csi.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\csi.rsp
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\System.AppContext.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\vbc.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\vbc.exe.config
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\vbc.rsp
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\VBCSCompiler.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\Crc32C.NET.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\Database.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\DnsClient.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\MongoDB.Bson.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\MongoDB.Driver.Core.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\MongoDB.Driver.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\MongoDB.Driver.Legacy.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\MongoDB.Libmongocrypt.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\Newtonsoft.Json.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\PCLStorage.Abstractions.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\PCLStorage.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\SharpCompress.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\Snappy.NET.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\System.Buffers.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\System.Web.Helpers.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\System.Web.Mvc.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\System.Web.Razor.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\System.Web.Webpages.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\System.Web.Webpages.Razor.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\Crc32C.NET.xml
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\DnsClient.xml
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\MongoDB.Bson.xml
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\MongoDB.Driver.xml
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\MongoDB.Driver.Core.xml
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\MongoDB.Driver.Legacy.xml
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\Newtonsoft.Json.xml
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\PCLStorage.xml
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\PCLStorage.Abstractions.xml
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\Snappy.NET.xml
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\System.Buffers.xml
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\System.Web.Razor.xml
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\System.Web.Webpages.xml
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\System.Web.Webpages.Razor.xml
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\System.Web.Helpers.xml
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\System.Web.Mvc.xml
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\obj\Debug\API Teste2.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\obj\Debug\API Teste2.csproj.CopyComplete
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\obj\Debug\API Teste2.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\api test 2\API Teste2\API Teste2\obj\Debug\API Teste2.pdb
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\mongocrypt.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\API Teste2.dll.config
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\API Teste2.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\API Teste2.pdb
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\csc.exe
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\csc.exe.config
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\csc.rsp
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\csi.exe
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\csi.rsp
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\System.AppContext.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\vbc.exe
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\vbc.exe.config
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\vbc.rsp
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\VBCSCompiler.exe
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\Crc32C.NET.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\Database.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\DnsClient.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\MongoDB.Bson.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\MongoDB.Driver.Core.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\MongoDB.Driver.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\MongoDB.Driver.Legacy.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\MongoDB.Libmongocrypt.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\Newtonsoft.Json.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\PCLStorage.Abstractions.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\PCLStorage.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\SharpCompress.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\Snappy.NET.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\System.Buffers.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\System.Web.Helpers.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\System.Web.Mvc.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\System.Web.Razor.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\System.Web.Webpages.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\System.Web.Webpages.Razor.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\Crc32C.NET.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\DnsClient.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\MongoDB.Bson.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\MongoDB.Driver.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\MongoDB.Driver.Core.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\MongoDB.Driver.Legacy.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\Newtonsoft.Json.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\PCLStorage.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\PCLStorage.Abstractions.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\Snappy.NET.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\System.Buffers.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\System.Web.Razor.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\System.Web.Webpages.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\System.Web.Webpages.Razor.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\System.Web.Helpers.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\System.Web.Mvc.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\obj\Debug\API Teste2.csprojAssemblyReference.cache
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\obj\Debug\API Teste2.csproj.CopyComplete
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\obj\Debug\API Teste2.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API Teste2\obj\Debug\API Teste2.pdb

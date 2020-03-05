@@ -1,0 +1,48 @@
+﻿@model Mvc_MongoDB.Models.Item
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Você tem certeza que deseja deletar este item?</h3>
+<div>
+    <h4>Item</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NomeItem)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomeItem)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CategoriaItem)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CategoriaItem)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QuantidadeItem)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QuantidadeItem)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Get")
+        </div>
+    }
+</div>

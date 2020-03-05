@@ -1,0 +1,10 @@
+﻿2020-03-03T15:00:47.5643220-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-03-03T15:00:47.5643220-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.48 in Framework clr40 in x86 mode execution started
+2020-03-03T15:00:47.5643220-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\packages\SpecRun.Runner.3.1.48\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-03-03T15:00:47.5953041-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\test.create\bin\Debug\test.create.dll
+2020-03-03T15:00:47.5963038-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\TestResults" (default)
+2020-03-03T15:00:47.5963038-03:00;VSTestExecutionThread;Info;Profile: 
+2020-03-03T15:00:47.6332825-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\TestResults\Unnamed project__2020-03-03T150047.log
+2020-03-03T15:00:47.6462750-03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-03-03T15:00:47.6542701-03:00;Thread#13;Info;Checking license
+2020-03-03T15:00:47.6882508-03:00;Thread#13;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)

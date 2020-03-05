@@ -1,0 +1,54 @@
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\API test2- Teste.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\API test2- Teste.pdb
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\obj\Debug\API test2- Teste.csprojAssemblyReference.cache
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\obj\Debug\API test2- Teste.csproj.CopyComplete
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\obj\Debug\API test2- Teste.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\obj\Debug\API test2- Teste.pdb
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\mongocrypt.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\API Teste2.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\MongoDB.Bson.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\MongoDB.Driver.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\System.Web.Mvc.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\System.Web.WebPages.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\System.Web.Razor.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\DnsClient.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\SharpCompress.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\Snappy.NET.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\System.Buffers.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\Crc32C.NET.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\API Teste2.pdb
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\API Teste2.dll.config
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\MongoDB.Bson.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\MongoDB.Driver.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\System.Web.Mvc.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\System.Web.WebPages.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\System.Web.Razor.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\DnsClient.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\Snappy.NET.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\System.Buffers.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\Crc32C.NET.xml
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\pt-br\System.Web.Mvc.resources.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\pt-br\System.Web.WebPages.resources.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\pt-br\System.Web.Razor.resources.dll
+C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\API test2- Teste\bin\Debug\pt-br\System.Web.WebPages.Deployment.resources.dll

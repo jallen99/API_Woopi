@@ -1,0 +1,177 @@
+﻿2020-03-03T15:57:47.1824613-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-03-03T15:57:47.1824613-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.48 in Framework clr40 in x86 mode execution started
+2020-03-03T15:57:47.1824613-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\packages\SpecRun.Runner.3.1.48\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-03-03T15:57:47.2154417-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\test.create\bin\Debug\test.create.dll
+2020-03-03T15:57:47.2154417-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\TestResults" (default)
+2020-03-03T15:57:47.2154417-03:00;VSTestExecutionThread;Info;Profile: 
+2020-03-03T15:57:47.2364145-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\TestResults\Unnamed project__2020-03-03T155747.log
+2020-03-03T15:57:47.2484230-03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-03-03T15:57:47.2534204-03:00;Thread#13;Info;Checking license
+2020-03-03T15:57:47.2654125-03:00;Thread#13;Info;Evaluation mode: test execution starts in 7 seconds... (this delay is removed in the registered version)
+2020-03-03T15:57:54.2671872-03:00;Thread#13;Info;Evaluation delay finished.
+2020-03-03T15:57:54.2871747-03:00;Thread#13;Info;License check completed
+2020-03-03T15:57:54.2901729-03:00;Thread#13;Info;starting test run
+2020-03-03T15:57:54.3091610-03:00;Thread#13;Info;Discovering target: Default
+2020-03-03T15:57:54.3091610-03:00;Thread#13;Info;Discovering tests from assembly: C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\test.create\bin\Debug\test.create.dll
+2020-03-03T15:57:54.6719508-03:00;Thread#13;Info;Discovered tests from assembly: C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\test.create\bin\Debug\test.create.dll
+2020-03-03T15:57:54.6729512-03:00:Test Suite Dump
+2020-03-03T15:57:54.6749498-03:00:#0: Unnamed project/ - 
+2020-03-03T15:57:54.6749498-03:00:#1: Default - 
+2020-03-03T15:57:54.6749498-03:00:#2: test.create - 
+2020-03-03T15:57:54.6749498-03:00:#17: SpecFlowtestefixacao - 
+2020-03-03T15:57:54.6999354-03:00:#18: Add two numbers, jota - TestAssembly:test.create/Feature:SpecFlowtestefixacao/Scenario:Add+two+numbers%2c+jota
+2020-03-03T15:57:54.6999354-03:00:#19: Add two numbers, bola - TestAssembly:test.create/Feature:SpecFlowtestefixacao/Scenario:Add+two+numbers%2c+bola
+2020-03-03T15:57:54.7009348-03:00:End: Test Suite Dump
+2020-03-03T15:57:54.7219227-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-03T15:57:54.7239215-03:00:Thread#:Scheduler: testitem #18 from normal test queue 
+2020-03-03T15:57:54.7239215-03:00:Thread#0:Scheduler: considering testitem #18 for thread 0
+2020-03-03T15:57:54.7279189-03:00:Thread#0:TestItem#18:testItemMatchesCurrentTestThread:UnSpecific
+2020-03-03T15:57:54.7279189-03:00:Thread#0:TestItem#18:runsOnOneOtherThreadSpecific:False
+2020-03-03T15:57:54.7279189-03:00:Thread#0:TestItem#18:runsOnOneOtherThreadUnspecific:False
+2020-03-03T15:57:54.7279189-03:00:Thread#0:Scheduler: using testitem #18 for thread 0
+2020-03-03T15:57:54.7289183-03:00:Thread#0:Scheduler: Test #18 is scheduled for thread
+2020-03-03T15:57:54.7299177-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-03-03T15:57:54.7319166-03:00:Thread #0: creating new test thread executor for test.create, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-03-03T15:57:54.7339158-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-03-03T15:57:54.7369147-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-03-03T15:57:54.7379138-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2020-03-03T15:57:54.9078155-03:00:Thread#0:T:-> Loading plugin C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\test.create\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-03-03T15:57:54.9128123-03:00:Thread#0:T:-> Using default config
+2020-03-03T15:57:55.3255739-03:00:Thread#0: Test #18/0 is started on thread #0
+2020-03-03T15:57:55.3505598-03:00:Thread#0:B:Given um nome "jota"
+2020-03-03T15:57:55.4664926-03:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-03-03T15:57:55.4664926-03:00:Thread#0:T:        [Given(@"um nome ""(.*)""")]
+2020-03-03T15:57:55.4664926-03:00:Thread#0:T:        public void GivenUmNome(string jota)
+2020-03-03T15:57:55.4664926-03:00:Thread#0:T:        {
+2020-03-03T15:57:55.4664926-03:00:Thread#0:T:            ScenarioContext.Current.Pending();
+2020-03-03T15:57:55.4674921-03:00:Thread#0:T:        }
+2020-03-03T15:57:55.4684918-03:00:Thread#0:B:And for igual a o proprio nome "jota"
+2020-03-03T15:57:55.4714901-03:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-03-03T15:57:55.4714901-03:00:Thread#0:T:        [Given(@"for igual a o proprio nome ""(.*)""")]
+2020-03-03T15:57:55.4714901-03:00:Thread#0:T:        public void GivenForIgualAOProprioNome(string jota0)
+2020-03-03T15:57:55.4714901-03:00:Thread#0:T:        {
+2020-03-03T15:57:55.4714901-03:00:Thread#0:T:            ScenarioContext.Current.Pending();
+2020-03-03T15:57:55.4714901-03:00:Thread#0:T:        }
+2020-03-03T15:57:55.4724898-03:00:Thread#0:B:When eu valido o item
+2020-03-03T15:57:55.4804849-03:00:Thread#0:T:skipped because of previous errors
+2020-03-03T15:57:55.4834832-03:00:Thread#0:B:Then o resultado tem que ser verdade
+2020-03-03T15:57:55.4854823-03:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-03-03T15:57:55.4854823-03:00:Thread#0:T:        [Then(@"o resultado tem que ser verdade")]
+2020-03-03T15:57:55.4864811-03:00:Thread#0:T:        public void ThenOResultadoTemQueSerVerdade()
+2020-03-03T15:57:55.4864811-03:00:Thread#0:T:        {
+2020-03-03T15:57:55.4864811-03:00:Thread#0:T:            ScenarioContext.Current.Pending();
+2020-03-03T15:57:55.4864811-03:00:Thread#0:T:        }
+2020-03-03T15:57:55.5634367-03:00:Thread#0:T:Pending: No matching step definition found for one or more steps.
+2020-03-03T15:57:55.5634367-03:00:Thread#0:T:using System;
+2020-03-03T15:57:55.5634367-03:00:Thread#0:T:using TechTalk.SpecFlow;
+2020-03-03T15:57:55.5634367-03:00:Thread#0:T:namespace MyNamespace
+2020-03-03T15:57:55.5634367-03:00:Thread#0:T:{
+2020-03-03T15:57:55.5634367-03:00:Thread#0:T:    [Binding]
+2020-03-03T15:57:55.5634367-03:00:Thread#0:T:    public class StepDefinitions
+2020-03-03T15:57:55.5644362-03:00:Thread#0:T:    {
+2020-03-03T15:57:55.5644362-03:00:Thread#0:T:        [Given(@"um nome ""(.*)""")]
+2020-03-03T15:57:55.5644362-03:00:Thread#0:T:        public void GivenUmNome(string jota0)
+2020-03-03T15:57:55.5644362-03:00:Thread#0:T:        {
+2020-03-03T15:57:55.5644362-03:00:Thread#0:T:            ScenarioContext.Current.Pending();
+2020-03-03T15:57:55.5644362-03:00:Thread#0:T:        }
+2020-03-03T15:57:55.5644362-03:00:Thread#0:T:        
+2020-03-03T15:57:55.5644362-03:00:Thread#0:T:        [Given(@"for igual a o proprio nome ""(.*)""")]
+2020-03-03T15:57:55.5644362-03:00:Thread#0:T:        public void GivenForIgualAOProprioNome(string jota0)
+2020-03-03T15:57:55.5654356-03:00:Thread#0:T:        {
+2020-03-03T15:57:55.5654356-03:00:Thread#0:T:            ScenarioContext.Current.Pending();
+2020-03-03T15:57:55.5654356-03:00:Thread#0:T:        }
+2020-03-03T15:57:55.5654356-03:00:Thread#0:T:        
+2020-03-03T15:57:55.5654356-03:00:Thread#0:T:        [Then(@"o resultado tem que ser verdade")]
+2020-03-03T15:57:55.5654356-03:00:Thread#0:T:        public void ThenOResultadoTemQueSerVerdade()
+2020-03-03T15:57:55.5654356-03:00:Thread#0:T:        {
+2020-03-03T15:57:55.5654356-03:00:Thread#0:T:            ScenarioContext.Current.Pending();
+2020-03-03T15:57:55.5654356-03:00:Thread#0:T:        }
+2020-03-03T15:57:55.5654356-03:00:Thread#0:T:    }
+2020-03-03T15:57:55.5654356-03:00:Thread#0:T:}
+2020-03-03T15:57:55.5724315-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-03T15:57:55.5724315-03:00:Thread#:Scheduler: testitem #19 from normal test queue 
+2020-03-03T15:57:55.5724315-03:00:Thread#0:Scheduler: considering testitem #19 for thread 0
+2020-03-03T15:57:55.5724315-03:00:Thread#0:TestItem#19:testItemMatchesCurrentTestThread:UnSpecific
+2020-03-03T15:57:55.5724315-03:00:Thread#0:TestItem#19:runsOnOneOtherThreadSpecific:False
+2020-03-03T15:57:55.5724315-03:00:Thread#0:TestItem#19:runsOnOneOtherThreadUnspecific:False
+2020-03-03T15:57:55.5724315-03:00:Thread#0:Scheduler: using testitem #19 for thread 0
+2020-03-03T15:57:55.5724315-03:00:Thread#0:Scheduler: Test #19 is scheduled for thread
+2020-03-03T15:57:55.5724315-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-03-03T15:57:55.5834258-03:00:Thread#0: Test #18/0 is finished on thread #0 as Pending within 0,2568525 seconds
+2020-03-03T15:57:55.5844253-03:00:Thread#0: Test #19/0 is started on thread #0
+2020-03-03T15:57:55.5854244-03:00:Thread#0:B:Given um nome "bola"
+2020-03-03T15:57:55.5864238-03:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-03-03T15:57:55.5874235-03:00:Thread#0:T:        [Given(@"um nome ""(.*)""")]
+2020-03-03T15:57:55.5874235-03:00:Thread#0:T:        public void GivenUmNome(string bola)
+2020-03-03T15:57:55.5874235-03:00:Thread#0:T:        {
+2020-03-03T15:57:55.5874235-03:00:Thread#0:T:            ScenarioContext.Current.Pending();
+2020-03-03T15:57:55.5874235-03:00:Thread#0:T:        }
+2020-03-03T15:57:55.5874235-03:00:Thread#0:B:And for igual a o proprio nome "redondo"
+2020-03-03T15:57:55.5904218-03:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-03-03T15:57:55.5904218-03:00:Thread#0:T:        [Given(@"for igual a o proprio nome ""(.*)""")]
+2020-03-03T15:57:55.5914212-03:00:Thread#0:T:        public void GivenForIgualAOProprioNome(string redondo)
+2020-03-03T15:57:55.5914212-03:00:Thread#0:T:        {
+2020-03-03T15:57:55.5914212-03:00:Thread#0:T:            ScenarioContext.Current.Pending();
+2020-03-03T15:57:55.5914212-03:00:Thread#0:T:        }
+2020-03-03T15:57:55.5914212-03:00:Thread#0:B:When eu valido o item
+2020-03-03T15:57:55.5914212-03:00:Thread#0:T:skipped because of previous errors
+2020-03-03T15:57:55.5914212-03:00:Thread#0:B:Then o resultado tem que ser verdade
+2020-03-03T15:57:55.5934198-03:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-03-03T15:57:55.5934198-03:00:Thread#0:T:        [Then(@"o resultado tem que ser verdade")]
+2020-03-03T15:57:55.5934198-03:00:Thread#0:T:        public void ThenOResultadoTemQueSerVerdade()
+2020-03-03T15:57:55.5934198-03:00:Thread#0:T:        {
+2020-03-03T15:57:55.5934198-03:00:Thread#0:T:            ScenarioContext.Current.Pending();
+2020-03-03T15:57:55.5944192-03:00:Thread#0:T:        }
+2020-03-03T15:57:55.6094105-03:00:Thread#0:T:Pending: No matching step definition found for one or more steps.
+2020-03-03T15:57:55.6094105-03:00:Thread#0:T:using System;
+2020-03-03T15:57:55.6094105-03:00:Thread#0:T:using TechTalk.SpecFlow;
+2020-03-03T15:57:55.6094105-03:00:Thread#0:T:namespace MyNamespace
+2020-03-03T15:57:55.6094105-03:00:Thread#0:T:{
+2020-03-03T15:57:55.6094105-03:00:Thread#0:T:    [Binding]
+2020-03-03T15:57:55.6094105-03:00:Thread#0:T:    public class StepDefinitions
+2020-03-03T15:57:55.6094105-03:00:Thread#0:T:    {
+2020-03-03T15:57:55.6094105-03:00:Thread#0:T:        [Given(@"um nome ""(.*)""")]
+2020-03-03T15:57:55.6104177-03:00:Thread#0:T:        public void GivenUmNome(string bola0)
+2020-03-03T15:57:55.6104177-03:00:Thread#0:T:        {
+2020-03-03T15:57:55.6104177-03:00:Thread#0:T:            ScenarioContext.Current.Pending();
+2020-03-03T15:57:55.6104177-03:00:Thread#0:T:        }
+2020-03-03T15:57:55.6104177-03:00:Thread#0:T:        
+2020-03-03T15:57:55.6104177-03:00:Thread#0:T:        [Given(@"for igual a o proprio nome ""(.*)""")]
+2020-03-03T15:57:55.6104177-03:00:Thread#0:T:        public void GivenForIgualAOProprioNome(string redondo0)
+2020-03-03T15:57:55.6104177-03:00:Thread#0:T:        {
+2020-03-03T15:57:55.6104177-03:00:Thread#0:T:            ScenarioContext.Current.Pending();
+2020-03-03T15:57:55.6104177-03:00:Thread#0:T:        }
+2020-03-03T15:57:55.6104177-03:00:Thread#0:T:        
+2020-03-03T15:57:55.6104177-03:00:Thread#0:T:        [Then(@"o resultado tem que ser verdade")]
+2020-03-03T15:57:55.6114094-03:00:Thread#0:T:        public void ThenOResultadoTemQueSerVerdade()
+2020-03-03T15:57:55.6114094-03:00:Thread#0:T:        {
+2020-03-03T15:57:55.6114094-03:00:Thread#0:T:            ScenarioContext.Current.Pending();
+2020-03-03T15:57:55.6114094-03:00:Thread#0:T:        }
+2020-03-03T15:57:55.6114094-03:00:Thread#0:T:    }
+2020-03-03T15:57:55.6114094-03:00:Thread#0:T:}
+2020-03-03T15:57:55.6114094-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-03T15:57:55.6114094-03:00:Thread#:Scheduler: at the end of normal test queue
+2020-03-03T15:57:55.6114094-03:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-03-03T15:57:55.6114094-03:00:Thread#0:Scheduler: No more tests for thread
+2020-03-03T15:57:55.6214033-03:00:Thread#0: Test #19/0 is finished on thread #0 as Pending within 0,036978 seconds
+2020-03-03T15:57:55.6523858-03:00:Trying to cancel thread
+2020-03-03T15:57:55.6523858-03:00:Thread cancelled
+2020-03-03T15:57:55.6583820-03:00:Thread#-1:Scheduler: get next test for thread -1
+2020-03-03T15:57:55.6583820-03:00:Thread#:Scheduler: at the end of normal test queue
+2020-03-03T15:57:55.6583820-03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-03-03T15:57:55.6593814-03:00;Thread#13;Info;test run finished
+2020-03-03T15:57:55.6593814-03:00;Thread#13;Info;publishing test results
+2020-03-03T15:57:55.6643788-03:00;Thread#13;Info;test results published
+2020-03-03T15:57:55.6643788-03:00;Thread#13;Info;generating reports
+2020-03-03T15:57:55.7573249-03:00;Thread#13;Info;Starting external report generation process
+2020-03-03T15:57:57.1675126-03:00;Thread#13;Info;Successfully generated reports.
+2020-03-03T15:57:57.1685114-03:00;Thread#13;Info;Successfully generated reports
+2020-03-03T15:57:57.1745079-03:00:Total: 2
+2020-03-03T15:57:57.1765068-03:00:Succeeded: 0
+2020-03-03T15:57:57.1765068-03:00:Ignored: 0
+2020-03-03T15:57:57.1775062-03:00:Pending: 2
+2020-03-03T15:57:57.1775062-03:00:Skipped: 0
+2020-03-03T15:57:57.1775062-03:00:Failed: 0
+2020-03-03T15:57:57.1865007-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-03-03T15:57:57.1865007-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\padmin\Desktop\api test 2\api test 2\API Teste2\TestResults\Unnamed project__2020-03-03T155747.html'
+========== End of log file ==========
